@@ -1,3 +1,4 @@
-# Fake News_Classification Using Count_Vectorizer - NLP 
+### Fake News_Classification Using Count_Vectorizer - NLP 
 
-Source : https://www.youtube.com/watch?v=MO5n5JaRotc
+Dataset : https://www.kaggle.com/c/fake-news/data#
+Source  : https://www.youtube.com/watch?v=MO5n5JaRotc
